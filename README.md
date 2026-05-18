@@ -18,3 +18,7 @@
 ## 116. W05 - Obtendo dados dos painéis e usando FormData
 - Nessa aula, adicionei os métodos .getForm() e .toJSON() direto no HTMLFormElement.prototype para facilitar a extração de dados de qualquer formulário em formato JSON. Também vinculei o clique de um container para disparar o input oculto de upload de foto (.click()), configurei o evento de keypress para salvar o perfil automaticamente ao pressionar a tecla 'Enter', e capturei os dados do formulário de novos contatos usando o FormData.
 ![alt text](image-3.png)
+
+## 117. W06 - Clique no "Menu Anexar" - Usando bind() e removeEventListener()
+- Nessa aula, adicionei o evento de clique em btnAttach para abrir o menu de anexos e usei o e.stopPropagation() para controlar o fluxo do clique. Também criei o método closeMenuAttach(e) atrelado ao document com bind(this) para fechar o menu automaticamente ao clicar fora da área, e por fim, estruturei os logs de console para os botões de foto, câmera, documento e contato.
+![alt text](image-4.png)
