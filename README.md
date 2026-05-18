@@ -10,3 +10,7 @@
 ## 114. W03 - Prototype
 - Nessa aula, criei atalhos customizados no Element.prototype para facilitar o desenvolvimento. Criei o método .on() para gerenciar múltiplos eventos de uma vez só, o método .css() para aplicar vários estilos em lote, e funções como .addClass() e .removeClass() para manipular classes CSS do HTML de um jeito muito mais rápido e limpo.
 ![alt text](image-1.png)
+
+## 115. W04 - Eventos para abrir/fechar os painéis "Editar Perfil" e "Adicionar Contato"
+- Nessa aula, melhorei o controle dos painéis criando o método closeAllLeftPanel() para esconder as abas abertas e evitar conflitos. Também apliquei o setTimeout de 300ms para dar tempo ao navegador de processar o .show() antes de rodar o .addClass('open'), garantindo que a animação funcione perfeitamente, e por fim, configurei os botões de voltar para remover a classe e fechar os painéis.
+![alt text](image-2.png)
