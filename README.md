@@ -27,3 +27,6 @@
 - Nessa aula, eu organizei todos os eventos de anexar itens criando o método centralizador closeAllMainPanel(), o que foi ótimo porque evitou que as telas ficassem se sobrepondo uma na outra.
 ![alt text](image-5.png)
 
+## 119. W08 - Eventos de gravação do microfone e timer de gravação
+- Nessa aula o desafio era resolver um problema invisível no gravador de áudio: o consumo desnecessário de memória. O problema é que, mesmo escondendo a barra verde na tela, o cronômetro continuava rodando infinitamente em segundo plano. A solução foi atualizar o método closeRecordMicrophone() com o comando clearInterval(). Com isso, o loop de contagem é destruído assim que o usuário cancela ou envia o áudio, deixando o código otimizado e sem desperdício de performance.
+![alt text](image-6.png)
