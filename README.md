@@ -22,3 +22,7 @@
 ## 117. W06 - Clique no "Menu Anexar" - Usando bind() e removeEventListener()
 - Nessa aula, adicionei o evento de clique em btnAttach para abrir o menu de anexos e usei o e.stopPropagation() para controlar o fluxo do clique. Também criei o método closeMenuAttach(e) atrelado ao document com bind(this) para fechar o menu automaticamente ao clicar fora da área, e por fim, estruturei os logs de console para os botões de foto, câmera, documento e contato.
 ![alt text](image-4.png)
+
+##118. W07 - Eventos no "Menu Anexar"
+- Nessa aula, eu organizei todos os eventos de anexar itens criando o método centralizador closeAllMainPanel(), o que foi ótimo porque evitou que as telas ficassem se sobrepondo uma na outra.
+![alt text](image-5.png)
