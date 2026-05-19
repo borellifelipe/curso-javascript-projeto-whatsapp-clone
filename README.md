@@ -30,3 +30,7 @@
 ## 119. W08 - Eventos de gravação do microfone e timer de gravação
 - Nessa aula o desafio era resolver um problema invisível no gravador de áudio: o consumo desnecessário de memória. O problema é que, mesmo escondendo a barra verde na tela, o cronômetro continuava rodando infinitamente em segundo plano. A solução foi atualizar o método closeRecordMicrophone() com o comando clearInterval(). Com isso, o loop de contagem é destruído assim que o usuário cancela ou envia o áudio, deixando o código otimizado e sem desperdício de performance.
 ![alt text](image-6.png)
+
+## 120. W09 - Função para formatar milissegundos em minuto e segundo
+- Nesta aula ajustamos o gravador de áudio para contar em segundos e minutos.
+![alt text](image-7.png)
