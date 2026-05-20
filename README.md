@@ -34,3 +34,7 @@
 ## 120. W09 - Função para formatar milissegundos em minuto e segundo
 - Nesta aula ajustamos o gravador de áudio para contar em segundos e minutos.
 ![alt text](image-7.png)
+
+## 121. W10 - Eventos do campo "Digitar Mensagem"
+-Nesta aula habilitamos os avatares para ser usado.
+![alt text](image-8.png)
