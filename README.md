@@ -43,3 +43,6 @@
 - Nessa aula, o emoji foi inserido dentro do campo de texto.
 ![alt text](image-9.png)
 
+## 123. W12 - Inserir Emoji getSelection(), createRange() e DocumentFragment()
+- Nessa aula, o foco foi capturar a posição exata do cursor do usuário no campo de texto e inserir o emogi que foi escolhida.
+![alt text](image-10.png)
