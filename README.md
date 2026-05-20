@@ -46,3 +46,7 @@
 ## 123. W12 - Inserir Emoji getSelection(), createRange() e DocumentFragment()
 - Nessa aula, o foco foi capturar a posição exata do cursor do usuário no campo de texto e inserir o emogi que foi escolhida.
 ![alt text](image-10.png)
+
+## 124. W13 - Ativando a câmera com API MediaDevices.getUserMedia()
+- Nessa aula, a estrutura inicial da classe CameraController foi criada, utilizando a API getUserMedia para pedir permissão de acesso à câmera do usuário e renderizar o fluxo de vídeo direto em um elemento HTML na tela.
+![alt text](image-11.png)
