@@ -38,3 +38,8 @@
 ## 121. W10 - Eventos do campo "Digitar Mensagem"
 -Nesta aula habilitamos os avatares para ser usado.
 ![alt text](image-8.png)
+
+## 122. W11 - Inserir Emoji - cloneNode(), dispatchEvent() e new Event()
+- Nessa aula, o emoji foi inserido dentro do campo de texto.
+![alt text](image-9.png)
+
