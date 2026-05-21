@@ -65,3 +65,7 @@
 
 ## 128. W17 - Parando de capturar imagem da câmera - getTracks()
 - Nessa aula, foi criado o método stop() para desligar a câmera do usuário quando ela não estiver mais sendo usada.
+
+## 129. W18 - Tirar fotografia da câmera com canvas
+- Nessa aula, foi configurado o evento de clique no botão de enviar a foto (btnSendPicture).
+![alt text](image-14.png)
