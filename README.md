@@ -57,3 +57,8 @@
 ## 126. W15 - Arquivo de configuração do Webpack - webpack.config.js
 - Nessa aula, foi criada uma pasta Webpack com as dependências para rodar o sistema. Também foram criados os gatilhos de entrada e saída do projeto no webpack.config.js e os scripts no package.json para rodar o build automático e o live reloading direto no terminal.
 ![alt text](image-12.png)
+
+## 127. W16 - Importando e Exportando módulos com Webpack
+- Para rodar o projeto - npm run start.
+- Nessa aula, a forma de exportar e importar os arquivos foi modificada para conectar as classes direto pelo nome, deixando a organização do código mais simples.
+![alt text](image-13.png)
