@@ -50,3 +50,10 @@
 ## 124. W13 - Ativando a câmera com API MediaDevices.getUserMedia()
 - Nessa aula, a estrutura inicial da classe CameraController foi criada, utilizando a API getUserMedia para pedir permissão de acesso à câmera do usuário e renderizar o fluxo de vídeo direto em um elemento HTML na tela.
 ![alt text](image-11.png)
+
+## 125. W14 - Criando um servidor Web com Webpack Dev Server
+- Instamos o packageJSON | webpack@3.1.0(node_modules) | webpack-dev-server@2.5.1
+
+## 126. W15 - Arquivo de configuração do Webpack - webpack.config.js
+- Nessa aula, foi criada uma pasta Webpack com as dependências para rodar o sistema. Também foram criados os gatilhos de entrada e saída do projeto no webpack.config.js e os scripts no package.json para rodar o build automático e o live reloading direto no terminal.
+![alt text](image-12.png)
