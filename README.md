@@ -62,3 +62,6 @@
 - Para rodar o projeto - npm run start.
 - Nessa aula, a forma de exportar e importar os arquivos foi modificada para conectar as classes direto pelo nome, deixando a organização do código mais simples.
 ![alt text](image-13.png)
+
+## 128. W17 - Parando de capturar imagem da câmera - getTracks()
+- Nessa aula, foi criado o método stop() para desligar a câmera do usuário quando ela não estiver mais sendo usada.
