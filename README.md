@@ -69,3 +69,7 @@
 ## 129. W18 - Tirar fotografia da câmera com canvas
 - Nessa aula, foi configurado o evento de clique no botão de enviar a foto (btnSendPicture).
 ![alt text](image-14.png)
+
+## 130. W19 - Enviando mensagens de documentos
+- Nessa aula, foi configurado o tratamento de arquivos selecionados no input para identificar documentos (como Imagens, Excel, Word e PowerPoint), trocando dinamicamente as classes CSS dos ícones e alternando a visibilidade dos painéis de pré-visualização.
+![alt text](image-15.png)
