@@ -73,3 +73,7 @@
 ## 130. W19 - Enviando mensagens de documentos
 - Nessa aula, foi configurado o tratamento de arquivos selecionados no input para identificar documentos (como Imagens, Excel, Word e PowerPoint), trocando dinamicamente as classes CSS dos ícones e alternando a visibilidade dos painéis de pré-visualização.
 ![alt text](image-15.png)
+
+## 131. W20 - Lendo capa de arquivo PDF e gerando imagem com PDF.js
+- Nessa aula, foi configurada a leitura de arquivos PDF utilizando a biblioteca PDF.js para desenhar a primeira página do documento em um elemento canvas, gerando uma imagem de miniatura (capa) para a pré-visualização.
+![alt text](image-16.png)

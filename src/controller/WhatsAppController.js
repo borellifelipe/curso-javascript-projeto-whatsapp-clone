@@ -207,6 +207,10 @@ export class WhatsAppController {
         this.el.inputDocument.on('change', e=>{
         
             if (this.el.inputDocument.files.length) {
+
+                this.el.panelDocumentPreview.css({
+                    'height': '1%'
+                });
         
                 let file = this.el.inputDocument.files[0];
 
@@ -219,10 +223,15 @@ export class WhatsAppController {
                 this.el.imagePanelDocumentPreview.show();
                 this.el.filePanelDocumentPreview.hide();
 
+                this.el.panelDocumentPreview.css({
+                    'height': 'calc(100% - 120px)'
+                });
+
             }).catch(err => {
 
-                console.log('err', err);
-    
+                this.el.panelDocumentPreview.css({
+                    'height': 'calc(100% - 120px)'
+                });
             });
     
             switch (file.type) {
